@@ -6,5 +6,6 @@ public class project01 {
         System.out.println("hello java!");
         System.out.println("hello pyhton!");
         System.out.println("hello liming!");
+        System.out.println("hello suling!");
     }
 }
